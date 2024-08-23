@@ -9,7 +9,7 @@ cardinformation = input()
 
 def show_balance(balance):
     print("*************")
-    print(f"your balance is lari(balance:2f)")
+    print(f"your balance is {balance:.2f}lari")
     print("*************")
 
 
